@@ -17,4 +17,4 @@
 
 9. First run "java -ajr MainftpServer_TCP.java <ftpPort> <ftpPath>"
   
-10 After that run "java -jar MainftpClient_TCP <FTP_serverIPAddr>, <ftpFileNameOnly>  <ftpFileNameWithPath> <ftpPath>"
+10. After that run "java -jar MainftpClient_TCP <FTP_serverIPAddr>, <ftpFileNameOnly>  <ftpFileNameWithPath> <ftpPath>"
